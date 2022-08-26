@@ -1,1 +1,1 @@
-# Series_temporales
+Ejercicio practico series temporales.
